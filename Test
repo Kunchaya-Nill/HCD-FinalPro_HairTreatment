@@ -1,0 +1,7 @@
+echo "# HCD-FinalPro_HairTreatment" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Kunchaya-Nill/HCD-FinalPro_HairTreatment.git
+git push -u origin main
